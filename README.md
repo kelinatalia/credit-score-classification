@@ -14,11 +14,5 @@ This project predicts a customer's credit score category (Poor, Standard, or Goo
 ## Result
 Random Forest slightly outperformed XGBoost, with an F1-score of around 0.76. The most important features are Outstanding Debt and Interest Rate.
 
-## Files
-```
-No_1.ipynb                      # Main notebook
-Credis_Score_Dataset_B.csv      # Dataset
-```
-
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, XGBoost, seaborn, matplotlib
